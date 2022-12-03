@@ -45,7 +45,7 @@ These visualizations are included in a story which is published on Tableau Publi
 ## Summary
 The visualization suggests that summer is not the good time for bike maintenance. But if a bike must be repaired during summer, then 10-1pm on Monday, Tuesday, and Wednesday would be the great time to repair it. The visualizations also suggest the number of bike needed at different time of everyday to supply for bike sharing activities. For example, 2 parts of weekdays, which are 8AM and 5PM-6PM, would need the most bikes.
  
-Further analyses should be done to support the business of bike sharing. For example:
+In order to broker a strategic conversation with investors and plan your pilot in Des Moines, further visualizations should be done, such as:
   - What are the highest-traffic locations
   - What is the breakdown of annual subscribers vs. short-term customers
 
